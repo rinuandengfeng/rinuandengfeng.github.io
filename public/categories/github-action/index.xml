@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>GitHub Action - 分类 - rndf’s blog</title>
+        <link>https://rinuandengfeng.github.io/categories/github-action/</link>
+        <description>GitHub Action - 分类 - rndf’s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1061747240@qq.com (日暖等风)</managingEditor>
+            <webMaster>1061747240@qq.com (日暖等风)</webMaster><lastBuildDate>Tue, 20 Jun 2023 23:35:20 &#43;0800</lastBuildDate><atom:link href="https://rinuandengfeng.github.io/categories/github-action/" rel="self" type="application/rss+xml" /><item>
+    <title>测试action</title>
+    <link>https://rinuandengfeng.github.io/posts/%E6%B5%8B%E8%AF%95action/</link>
+    <pubDate>Tue, 20 Jun 2023 23:35:20 &#43;0800</pubDate>
+    <author>日暖等风</author>
+    <guid>https://rinuandengfeng.github.io/posts/%E6%B5%8B%E8%AF%95action/</guid>
+    <description><![CDATA[测试action 看看是否能够自动化部署，并且在更新完数据之后可以在网站中看到更新的内容]]></description>
+</item>
+</channel>
+</rss>

@@ -2,7 +2,7 @@
 title: "测试action"
 date: 2023-06-20T23:35:20+08:00
 
-categories: "GitHub Action"
+categories: ["GitHub Action"]
 tags: 
 - Github Action
 - 自动化
