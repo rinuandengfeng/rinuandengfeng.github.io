@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>生活 - 标签 - rndf’s blog</title>
+        <link>https://rinuandengfeng.github.io/tags/%E7%94%9F%E6%B4%BB/</link>
+        <description>生活 - 标签 - rndf’s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1061747240@qq.com (日暖等风)</managingEditor>
+            <webMaster>1061747240@qq.com (日暖等风)</webMaster><lastBuildDate>Thu, 15 Jun 2023 00:10:46 &#43;0800</lastBuildDate><atom:link href="https://rinuandengfeng.github.io/tags/%E7%94%9F%E6%B4%BB/" rel="self" type="application/rss+xml" /><item>
+    <title>第一篇文章</title>
+    <link>https://rinuandengfeng.github.io/life/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+    <pubDate>Thu, 15 Jun 2023 00:10:46 &#43;0800</pubDate>
+    <author>日暖等风</author>
+    <guid>https://rinuandengfeng.github.io/life/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+    <description><![CDATA[第一篇博客测试 生活测试 第一篇博客测试]]></description>
+</item>
+<item>
+    <title>life test</title>
+    <link>https://rinuandengfeng.github.io/life/test/</link>
+    <pubDate>Wed, 14 Jun 2023 23:56:35 &#43;0800</pubDate>
+    <author>日暖等风</author>
+    <guid>https://rinuandengfeng.github.io/life/test/</guid>
+    <description><![CDATA[测试 生活测试
+啊啊啊啊啊啊]]></description>
+</item>
+</channel>
+</rss>

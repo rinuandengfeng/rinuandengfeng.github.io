@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>python - 标签 - rndf’s blog</title>
+        <link>https://rinuandengfeng.github.io/tags/python/</link>
+        <description>python - 标签 - rndf’s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1061747240@qq.com (日暖等风)</managingEditor>
+            <webMaster>1061747240@qq.com (日暖等风)</webMaster><lastBuildDate>Wed, 14 Jun 2023 23:49:27 &#43;0800</lastBuildDate><atom:link href="https://rinuandengfeng.github.io/tags/python/" rel="self" type="application/rss+xml" /><item>
+    <title>Test</title>
+    <link>https://rinuandengfeng.github.io/posts/test/</link>
+    <pubDate>Wed, 14 Jun 2023 23:49:27 &#43;0800</pubDate>
+    <author>日暖等风</author>
+    <guid>https://rinuandengfeng.github.io/posts/test/</guid>
+    <description><![CDATA[测试 posts 下的测试文件
+print(&#34;hello world&#34;) ]]></description>
+</item>
+</channel>
+</rss>

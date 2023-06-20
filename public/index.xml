@@ -1,0 +1,27 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>rndf’s blog</title>
+        <link>https://rinuandengfeng.github.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1061747240@qq.com (日暖等风)</managingEditor>
+            <webMaster>1061747240@qq.com (日暖等风)</webMaster><lastBuildDate>Sat, 17 Jun 2023 18:32:48 &#43;0800</lastBuildDate>
+            <atom:link href="https://rinuandengfeng.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>经贸wifi自动下线</title>
+    <link>https://rinuandengfeng.github.io/posts/%E7%88%AC%E8%99%AB/</link>
+    <pubDate>Sat, 17 Jun 2023 18:32:48 &#43;0800</pubDate>
+    <author>日暖等风</author>
+    <guid>https://rinuandengfeng.github.io/posts/%E7%88%AC%E8%99%AB/</guid>
+    <description><![CDATA[项目背景 使用技术 python 总结 最后实现出一个项目，可以自动登录经贸wifi，然后每隔一段时间自动下线，然后再自动登录，这样就可以一直使用经贸wifi了，不用担心登录网页时进不去的情况。]]></description>
+</item>
+<item>
+    <title>Test</title>
+    <link>https://rinuandengfeng.github.io/posts/test/</link>
+    <pubDate>Wed, 14 Jun 2023 23:49:27 &#43;0800</pubDate>
+    <author>日暖等风</author>
+    <guid>https://rinuandengfeng.github.io/posts/test/</guid>
+    <description><![CDATA[测试 posts 下的测试文件
+print(&#34;hello world&#34;) ]]></description>
+</item>
+</channel>
+</rss>
