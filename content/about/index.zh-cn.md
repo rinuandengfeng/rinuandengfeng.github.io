@@ -17,31 +17,30 @@ math:
 - 热爱编程，喜欢折腾。
 
 ## 技术栈
+
 - 编程语言
 
-    - Python
-    - Java
-    
+  - Python
+  - Golang
 
 - 数据库
-    - MySQL
-    - MongoDB (准备学)
-    - redis
+  - MySQL
+  - MongoDB (准备学)
+  - redis
 - 大数据
-    - Hadoop
-    - Hive
-    - HBase
-    
+  - Hadoop
+  - Hive
+  - HBase
 - 框架
-    - Flask
-    - FastAPI
+
+  - Flask
+  - FastAPI
 
 - 工具
-    - Git
-    - Docker
+
+  - Git
+  - Docker
 
 - 操作系统
-    - Linux
-    - Windows
-
-
+  - Linux
+  - Windows

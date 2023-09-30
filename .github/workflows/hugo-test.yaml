@@ -10,6 +10,9 @@ on:
 
   workflow_dispatch:
 
+env:
+  TZ: Asia/Shanghai # 设置当前环境时区
+
 
 permissions:
   contents: read
