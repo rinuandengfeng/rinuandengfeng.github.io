@@ -288,6 +288,7 @@ lineNumsStyle = "table"
 
 # 评论系统设置
 [params.page.comment]
+enable = true
 # giscus comment 评论系统设置 (https://giscus.app/zh-CN)
 [params.page.comment.giscus]
 # 你可以参考官方文档来使用下列配置
@@ -305,6 +306,8 @@ inputPosition = "bottom"
 lazyLoading = true
 lightTheme = "light"
 darkTheme = "dark"
+
+
 # 文章页面的分享信息设置
 [params.page.share]
 enable = false
