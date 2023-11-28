@@ -50,16 +50,16 @@ post = ""
 name = "文章"
 url = "/posts/"
 # 当您将鼠标悬停在此菜单链接上时, 将显示标题
-title = "文章"
+title = ""
 
-# [[menu.main]]
-# weight = 3
-# identifier = "tags"
-# pre = "🧩"
-# post = ""
-# name = "分类"
-# url = "/tags/"
-# title = ""
+[[menu.main]]
+weight = 3
+identifier = "tags"
+pre = "🧩"
+post = ""
+name = "分类"
+url = "/tags/"
+title = ""
 
 [[menu.main]]
 weight = 4
@@ -80,13 +80,13 @@ name = "生活"
 url = "/posts/life"
 title = "生活"
 
-[[menu.main]]
-weight = 6
-identifier = "about"
-pre = "🙋🏻‍♂️"
-post = ""
-name = "关于"
-url = "/about/"
+# [[menu.main]]
+# weight = 6
+# identifier = "about"
+# pre = "🙋🏻‍♂️"
+# post = ""
+# name = "关于"
+# url = "/about/"
 
 
 [taxonomies]
@@ -220,10 +220,11 @@ paginate = 6
 GitHub = "rinuandengfeng"
 email = "1061747240@qq.com"
 
+
 # 文章页面全局配置
 [params.page]
 # 是否使用 twemoji
-twemoji = false
+twemoji = true
 # 是否使用 lightgallery
 # lightgallery = true
 # 是否显示原始 Markdown 文档内容的链接
@@ -289,20 +290,19 @@ lineNumsStyle = "table"
 [params.page.comment]
 # giscus comment 评论系统设置 (https://giscus.app/zh-CN)
 [params.page.comment.giscus]
-# You can refer to the official documentation of giscus to use the following configuration.
 # 你可以参考官方文档来使用下列配置
-enable = false
-repo = ""
-repoId = ""
+enable = true
+repo = "rinuandengfeng/rinuandengfeng.github.io"
+repoId = "R_kgDOJx2X7Q"
 category = "Announcements"
-categoryId = ""
+categoryId = "DIC_kwDOJx2X7c4CbVcp"
 # 为空时自动适配当前主题 i18n 配置
-lang = ""
+lang = "zh-CN"
 mapping = "pathname"
 reactionsEnabled = "1"
 emitMetadata = "0"
 inputPosition = "bottom"
-lazyLoading = false
+lazyLoading = true
 lightTheme = "light"
 darkTheme = "dark"
 # 文章页面的分享信息设置

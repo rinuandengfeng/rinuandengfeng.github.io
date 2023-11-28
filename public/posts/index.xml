@@ -1,50 +1,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>所有文章 - rndf’s blog</title>
+        <title>所有文章 - rndf&#39;s blog</title>
         <link>https://rinuandengfeng.github.io/posts/</link>
-        <description>所有文章 | rndf’s blog</description>
+        <description>所有文章 | rndf&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1061747240@qq.com (日暖等风)</managingEditor>
             <webMaster>1061747240@qq.com (日暖等风)</webMaster><lastBuildDate>Thu, 15 Jun 2023 00:06:58 &#43;0800</lastBuildDate><atom:link href="https://rinuandengfeng.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>文件</title>
     <link>https://rinuandengfeng.github.io/posts/linux/%E6%96%87%E4%BB%B6/</link>
-    <pubDate>Tue, 20 Jun 2023 23:48:50 &#43;0800</pubDate>
+    <pubDate>Tue, 20 Jun 2023 21:55:30 &#43;0800</pubDate>
     <author>日暖等风</author>
     <guid>https://rinuandengfeng.github.io/posts/linux/%E6%96%87%E4%BB%B6/</guid>
-    <description><![CDATA[前言 在linux中 ** 一切皆文件 ** 这句话，不管是软件还是硬件，都是使用文件去表示。
-文件的类型 普通文件 （存放数据的文件） 目录文件 (存放文件的目录) 链接文件 （类似于windows中的快捷方式） 字符设备文件 （键盘、鼠标就属于字符设备文件，开头为c (character)） 块设备文件 （磁盘文件 字母表示为b (block)） 数据结构文件 （用户存储网络传输过来的数据信息的文件，开头是s (sockets)） 数据输送文件 也称为管道文件 （用于进程间通信，开头为p (pip)) 文件的权限 r (read) 读权限
-w (write) 写权限
-x (execute) 执行权限
-文件的权限表示 rwxrwxrwx 第一组rwx表示文件所有者的权限 第二组rwx表示文件所属组的权限 第三组rwx表示其他用户的权限 文件的权限修改 修改文件权限的命令为 chmod
-使用数字进行修改 r = 4, w = 2, x = 1
-例如：rwxrwxrwx = 777
-chmod 777 test.txt 使用字母进行修改 u (user) 表示文件拥有者
-g (group) 表示文件所属组
-o (other) 表示其他用户]]></description>
+    <description><![CDATA[前言 在 linux 中 一切皆文件 这句话，不管是软件还是硬件，都是使用文件去表示。 文件的类型 普通文件 （存放数据的文件） 目录文件 (存放文件的目录) 链接文件 （]]></description>
 </item>
 <item>
-    <title>测试action</title>
-    <link>https://rinuandengfeng.github.io/posts/%E6%B5%8B%E8%AF%95action/</link>
-    <pubDate>Tue, 20 Jun 2023 23:35:20 &#43;0800</pubDate>
+    <title>生活</title>
+    <link>https://rinuandengfeng.github.io/posts/life/</link>
+    <pubDate>Fri, 16 Jun 2023 21:01:33 &#43;0800</pubDate>
     <author>日暖等风</author>
-    <guid>https://rinuandengfeng.github.io/posts/%E6%B5%8B%E8%AF%95action/</guid>
-    <description><![CDATA[测试action 看看是否能够自动化部署，并且在更新完数据之后可以在网站中看到更新的内容]]></description>
-</item>
-<item>
-    <title>经贸wifi自动下线</title>
-    <link>https://rinuandengfeng.github.io/posts/%E7%88%AC%E8%99%AB/</link>
-    <pubDate>Sat, 17 Jun 2023 18:32:48 &#43;0800</pubDate>
-    <author>日暖等风</author>
-    <guid>https://rinuandengfeng.github.io/posts/%E7%88%AC%E8%99%AB/</guid>
-    <description><![CDATA[项目背景 使用技术 python 总结 最后实现出一个项目，可以自动登录经贸wifi，然后每隔一段时间自动下线，然后再自动登录，这样就可以一直使用经贸wifi了，不用担心登录网页时进不去的情况。]]></description>
-</item>
-<item>
-    <title>Test</title>
-    <link>https://rinuandengfeng.github.io/posts/test/</link>
-    <pubDate>Wed, 14 Jun 2023 23:49:27 &#43;0800</pubDate>
-    <author>日暖等风</author>
-    <guid>https://rinuandengfeng.github.io/posts/test/</guid>
-    <description><![CDATA[测试 posts 下的测试文件
-print(&#34;hello world&#34;) ]]></description>
+    <guid>https://rinuandengfeng.github.io/posts/life/</guid>
+    <description><![CDATA[]]></description>
 </item>
 </channel>
 </rss>

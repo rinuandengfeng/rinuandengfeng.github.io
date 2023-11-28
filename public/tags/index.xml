@@ -1,71 +1,31 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - 标签 - rndf’s blog</title>
+        <title>Tags - 标签 - rndf&#39;s blog</title>
         <link>https://rinuandengfeng.github.io/tags/</link>
-        <description>Tags - 标签 - rndf’s blog</description>
+        <description>Tags - 标签 - rndf&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1061747240@qq.com (日暖等风)</managingEditor>
-            <webMaster>1061747240@qq.com (日暖等风)</webMaster><lastBuildDate>Tue, 20 Jun 2023 23:48:50 &#43;0800</lastBuildDate><atom:link href="https://rinuandengfeng.github.io/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>Linux</title>
-    <link>https://rinuandengfeng.github.io/tags/linux/</link>
-    <pubDate>Tue, 20 Jun 2023 23:48:50 &#43;0800</pubDate>
+            <webMaster>1061747240@qq.com (日暖等风)</webMaster><lastBuildDate>Sat, 30 Sep 2023 21:55:30 &#43;0800</lastBuildDate><atom:link href="https://rinuandengfeng.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>感悟</title>
+    <link>https://rinuandengfeng.github.io/tags/%E6%84%9F%E6%82%9F/</link>
+    <pubDate>Sat, 30 Sep 2023 21:55:30 &#43;0800</pubDate>
     <author>日暖等风</author>
-    <guid>https://rinuandengfeng.github.io/tags/linux/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Github Action</title>
-    <link>https://rinuandengfeng.github.io/tags/github-action/</link>
-    <pubDate>Tue, 20 Jun 2023 23:35:20 &#43;0800</pubDate>
-    <author>日暖等风</author>
-    <guid>https://rinuandengfeng.github.io/tags/github-action/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>自动化</title>
-    <link>https://rinuandengfeng.github.io/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
-    <pubDate>Tue, 20 Jun 2023 23:35:20 &#43;0800</pubDate>
-    <author>日暖等风</author>
-    <guid>https://rinuandengfeng.github.io/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</guid>
+    <guid>https://rinuandengfeng.github.io/tags/%E6%84%9F%E6%82%9F/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>生活</title>
     <link>https://rinuandengfeng.github.io/tags/%E7%94%9F%E6%B4%BB/</link>
-    <pubDate>Tue, 20 Jun 2023 23:25:47 &#43;0800</pubDate>
+    <pubDate>Sat, 30 Sep 2023 21:55:30 &#43;0800</pubDate>
     <author>日暖等风</author>
     <guid>https://rinuandengfeng.github.io/tags/%E7%94%9F%E6%B4%BB/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>碎碎念念</title>
-    <link>https://rinuandengfeng.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5%E5%BF%B5/</link>
-    <pubDate>Tue, 20 Jun 2023 23:25:47 &#43;0800</pubDate>
+    <title>Linux</title>
+    <link>https://rinuandengfeng.github.io/tags/linux/</link>
+    <pubDate>Tue, 20 Jun 2023 21:55:30 &#43;0800</pubDate>
     <author>日暖等风</author>
-    <guid>https://rinuandengfeng.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5%E5%BF%B5/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>爬虫</title>
-    <link>https://rinuandengfeng.github.io/tags/%E7%88%AC%E8%99%AB/</link>
-    <pubDate>Sat, 17 Jun 2023 18:32:48 &#43;0800</pubDate>
-    <author>日暖等风</author>
-    <guid>https://rinuandengfeng.github.io/tags/%E7%88%AC%E8%99%AB/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>python</title>
-    <link>https://rinuandengfeng.github.io/tags/python/</link>
-    <pubDate>Wed, 14 Jun 2023 23:49:27 &#43;0800</pubDate>
-    <author>日暖等风</author>
-    <guid>https://rinuandengfeng.github.io/tags/python/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>test</title>
-    <link>https://rinuandengfeng.github.io/tags/test/</link>
-    <pubDate>Wed, 14 Jun 2023 23:49:27 &#43;0800</pubDate>
-    <author>日暖等风</author>
-    <guid>https://rinuandengfeng.github.io/tags/test/</guid>
+    <guid>https://rinuandengfeng.github.io/tags/linux/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
