@@ -129,7 +129,7 @@ enable = true
 # 自定义内容 (支持 HTML 格式)
 custom = ""
 # 是否显示 Hugo 和主题信息
-hugo = false
+hugo = true
 # 是否显示版权信息
 copyright = true
 # 是否显示作者
@@ -173,9 +173,14 @@ snippetLength = 30
 # 是否在搜索索引中使用基于 baseURL 的绝对路径
 absoluteURL = false
 [params.search.algolia]
-index = ""
-appID = ""
-searchKey = ""
+index = "rndf-blog"
+appID = "D6TRJGY2K0"
+searchKey = "215b33cc0678ff76f54f38ba1d72de9f"
+
+# 产生index.json文件提供给搜索引擎搜索引擎
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
 
 # 应用图标配置
 [params.app]
