@@ -77,7 +77,7 @@ jobs:
           # Algolia Index Name
           algolia_index_name: rndf-blog 
           # Algolia Admin Key
-          algolia_index_admin_key: 215b33cc0678ff76f54f38ba1d72de9f 
+          algolia_index_admin_key: 5b81a8773698d639fba17fac0be45846
 
           
 
