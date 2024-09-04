@@ -1,9 +1,0 @@
-name: Action Test
-
-on:
-  push:
-    - main
-
-
-jobs:
-  runs-on:
